@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\obj\Debug\net6.0\hometask05.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\obj\Debug\net6.0\hometask05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\obj\Debug\net6.0\hometask05.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\obj\Debug\net6.0\hometask05.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\obj\Debug\net6.0\hometask05.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\bin\Debug\net6.0\hometask05.exe
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\bin\Debug\net6.0\hometask05.deps.json
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\bin\Debug\net6.0\hometask05.runtimeconfig.json
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\bin\Debug\net6.0\hometask05.dll
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\bin\Debug\net6.0\hometask05.pdb
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\obj\Debug\net6.0\hometask05.dll
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\obj\Debug\net6.0\refint\hometask05.dll
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\obj\Debug\net6.0\hometask05.pdb
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\obj\Debug\net6.0\hometask05.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\hometask4\hometask05\hometask05\obj\Debug\net6.0\ref\hometask05.dll
